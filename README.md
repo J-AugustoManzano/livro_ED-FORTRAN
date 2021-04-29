@@ -1,1 +1,3 @@
-# livro_ED-FORTRAN
+# Livro: Estudo Dirigido de FORTRAN
+
+O livro apresenta noções introdutórias sobre o uso da linguagem de programação FORTRAN (abrange a versão 77 e faz um paralelo básico com a versão 90), em modo ANSI e objetiva ser um material de auxílio à introdução ao estudo de disciplinas relacionadas com o tema 'linguagem de programação de computadores'. Para facilitar o processo de aprendizagem, abrange um conteúdo programático básico e introdutório, dividido em dez capítulos, que abordam temas como - programação básica, programação seqüencial, tomadas de decisão, laços de repetição, utilização e definição de subprogramas (sub-rotinas e funções), tabelas (vetores e matrizes), funções internas, utilização básica de arquivos e noções preliminares de acesso à impressora.
