@@ -1,0 +1,5 @@
+      PROGRAM C09EX01
+      OPEN(1, FILE="ARQTXT.XXX", STATUS="NEW")
+      ENDFILE 1
+      CLOSE(1)
+      END

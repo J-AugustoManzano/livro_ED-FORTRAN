@@ -1,0 +1,10 @@
+      PROGRAM C08EX06
+      CHARACTER*10 PALAV1, PALAV2
+      INTEGER I
+      PALAV1 = "COMPUTADOR"
+      DO 100, I = 1, 10, 1
+        PALAV2(I:I) = PALAV1(11-I:11-I)
+ 100  CONTINUE
+      WRITE(*, "(A10)") PALAV2
+      END
+
