@@ -1,0 +1,8 @@
+      PROGRAM C02EX14
+      INTEGER VALOR
+      READ 10, VALOR
+  10  FORMAT(I5)
+      PRINT 20, VALOR
+  20  FORMAT(I5.5)
+      END
+
