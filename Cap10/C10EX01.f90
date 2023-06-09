@@ -1,0 +1,8 @@
+! Versao FORTRAN 90
+
+PROGRAM C10EX01
+  INTEGER(4) A, B, X
+  READ(*, *) A, B
+  X = A + B
+  WRITE(*, *) X
+END PROGRAM C10EX01
